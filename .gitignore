@@ -1,0 +1,55 @@
+
+*.xml
+*.txt
+*.jar
+*.iml
+*.png
+*.class
+*.zip
+8puzzle/.idea/fileTemplates/includes/File Header.java
+8puzzle/.idea/fileTemplates/internal/AnnotationType.java
+8puzzle/.idea/fileTemplates/internal/Class.java
+8puzzle/.idea/fileTemplates/internal/Enum.java
+8puzzle/.idea/fileTemplates/internal/Interface.java
+8puzzle/.idea/fileTemplates/internal/module-info.java
+8puzzle/.idea/fileTemplates/internal/package-info.java
+Collinear/.idea/fileTemplates/includes/File Header.java
+Collinear/.idea/fileTemplates/internal/AnnotationType.java
+Collinear/.idea/fileTemplates/internal/Class.java
+Collinear/.idea/fileTemplates/internal/Enum.java
+Collinear/.idea/fileTemplates/internal/Interface.java
+Collinear/.idea/fileTemplates/internal/module-info.java
+Collinear/.idea/fileTemplates/internal/package-info.java
+kdtree/.idea/fileTemplates/includes/File Header.java
+kdtree/.idea/fileTemplates/internal/AnnotationType.java
+kdtree/.idea/fileTemplates/internal/Class.java
+kdtree/.idea/fileTemplates/internal/Enum.java
+kdtree/.idea/fileTemplates/internal/Interface.java
+kdtree/.idea/fileTemplates/internal/module-info.java
+kdtree/.idea/fileTemplates/internal/package-info.java
+Percolation/.idea/.name
+Percolation/.idea/fileTemplates/includes/File Header.java
+Percolation/.idea/fileTemplates/internal/AnnotationType.java
+Percolation/.idea/fileTemplates/internal/Class.java
+Percolation/.idea/fileTemplates/internal/Enum.java
+Percolation/.idea/fileTemplates/internal/Interface.java
+Percolation/.idea/fileTemplates/internal/module-info.java
+Percolation/.idea/fileTemplates/internal/package-info.java
+Percolation/CREDITS
+Queues/.idea/fileTemplates/includes/File Header.java
+Queues/.idea/fileTemplates/internal/AnnotationType.java
+Queues/.idea/fileTemplates/internal/Class.java
+Queues/.idea/fileTemplates/internal/Enum.java
+Queues/.idea/fileTemplates/internal/Interface.java
+Queues/.idea/fileTemplates/internal/module-info.java
+Queues/.idea/fileTemplates/internal/package-info.java
+Queues/RandQ LL Implementation/RandomizedQueueLL.java
+Percolation/PercolationVisualizer.java
+Percolation/InteractivePercolationVisualizer.java
+Collinear/test.java
+Collinear/LineSegment.java
+8puzzle/PuzzleChecker.java
+kdtree/KdTreeGenerator.java
+kdtree/KdTreeVisualizer.java
+kdtree/NearestNeighborVisualizer.java
+kdtree/RangeSearchVisualizer.java
