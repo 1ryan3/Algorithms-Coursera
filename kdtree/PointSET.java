@@ -43,6 +43,7 @@ public class PointSET {
     }                        // draw all points to standard draw
 
     public Iterable<Point2D> range(RectHV rect) {
+        if (rect == null) throw new IllegalArgumentException();
         SET<Point2D> temp = new SET<>();
         double x = 0;
         double y = 0;
@@ -57,15 +58,13 @@ public class PointSET {
     }            // all points that are inside the rectangle (or on the boundary)
 
     public Point2D nearest(Point2D p) {
-
+        if (p == null) throw new IllegalArgumentException();
         Point2D temp = null;
         double min = Double.POSITIVE_INFINITY;
-        double dist;
 
         for (Point2D p2 : pointSet) {
-            dist = p.distanceTo(p2);
-            if (dist < min) {
-                min = dist;
+            if (p.distanceSquaredTo(p2) < min) {
+                min = p.distanceSquaredTo(p2);
                 temp = p2;
             }
         }
